@@ -1,5 +1,5 @@
 # MatLab
-Scripts escritos para resolver problemas de Física.
+Os scripts deste repositório foram escritos para resolver problemas relacionados a minha pesquisa no doutorado.
 
 ## Pasta NMR - Ressonância Magnética Nuclear 
 
@@ -11,7 +11,7 @@ Modo alternativo de representar estados de bits quânticos.
 
 ## Pasta Qubit
 
-Scripts de informação quântica.
+Scripts de informação quântica, com o foco em circuitos e canais quânticos.
 
 ## Pasta Quadrupolar
 
