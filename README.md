@@ -3,7 +3,7 @@ Os scripts foram escritos para modelar problemas relacionados a minha pesquisa n
 
 ## Pasta NMR - Ressonância Magnética Nuclear 
 
-Calcular _Free Induction Decay_ e espectros (_Fast Fourier Transform_), a partir da definição da estrutura molecular e mecanismos de relaxação.
+Calcular _Free Induction Decay_ e espectros (_Fast Fourier Transform_), a partir da definição da estrutura molecular e mecanismos de excitação / relaxação dos spins nucleares. Com uma certa quantidade de espectros específicos de um mesmo estado, é possível reconstruir a sua matriz densidade (Tomografia de estado quântico).
 
 ## Pasta Phase Space
 
