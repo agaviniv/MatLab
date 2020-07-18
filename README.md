@@ -16,4 +16,4 @@ Scripts de informação quântica, com o foco em portas quânticas / circuitos e
 
 ## [Pasta Quadrupolar](https://github.com/agaviniv/SpinQubits/tree/master/Quadrupolar)
 
-Scripts utilizados na minha tese de doutorado. Foi utilizado um algoritmo de ajuste de curvas `fminsearch`.
+Scripts utilizados na minha tese de doutorado. Foi utilizado um algoritmo de ajuste de curvas `fminsearch` (busca o mínimo de uma função multivariável sem restrições, e sem utilizar o cálculo de suas derivadas).
