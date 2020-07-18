@@ -8,7 +8,7 @@ Calcular _Free Induction Decay_ e espectros (_Fast Fourier Transform_), a partir
 
 ## Pasta Phase Space
 
-Uma distribuição sobre um espaço de fases discreto representa um modo alternativo de representar estados de bits quânticos.
+Uma distribuição sobre um espaço de fases discreto representa um modo alternativo de representar estados de bits quânticos. Os fenômenos de dissipação e difusão são exemplos típicos de processos que podem ser visualizados no espaço de fases. Outro fenômeno é a localização da distribuição em certas regiões do espaço de fases durante um processo de evolução temporal do estado quântico.
 
 ## Pasta Qubit
 
