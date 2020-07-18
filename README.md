@@ -15,4 +15,4 @@ Scripts de informação quântica, com o foco em portas quânticas / circuitos e
 
 ## Pasta Quadrupolar
 
-Scripts utilizados na minha tese de doutorado.
+Scripts utilizados na minha tese de doutorado. Foi utilizado um algoritmo de ajuste de curvas `fminsearch`.
