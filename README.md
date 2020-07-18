@@ -1,18 +1,19 @@
-# MatLab
-Os scripts deste repositório foram escritos para resolver problemas relacionados a minha pesquisa no doutorado.
 
-## Pasta NMR - Ressonância Magnética Nuclear 
+# Spin Qubits mode on - Quantum control with noise
+Os q-bits de spin em RMN são amplamente utilizados para benchmarks de controle quântico.
 
-Calcular os Free Induction Decay e seus respectivos espectros (Fast Fourier Transform), a partir da definição de sua estrutura molecular e mecanismos de relaxação.
+## [Pasta NMR](https://github.com/agaviniv/SpinQubits/tree/master/NMR)  
 
-## Pasta Phase Space
+Calcular _Free Induction Decay_ e espectros (_Fast Fourier Transform_), a partir da definição da estrutura molecular e mecanismos de excitação / relaxação dos spins nucleares. Com uma certa quantidade de espectros específicos de um mesmo estado, é possível reconstruir a sua matriz densidade (Tomografia de estado quântico).
 
-Modo alternativo de representar estados de bits quânticos.
+## [Pasta Phase Space](https://github.com/agaviniv/SpinQubits/tree/master/PhaseSpace)
 
-## Pasta Qubit
+Uma distribuição sobre um espaço de fases discreto representa um modo alternativo de representar estados de bits quânticos. Os fenômenos de dissipação e difusão são exemplos típicos de processos que podem ser visualizados no espaço de fases. Outro fenômeno é a localização da distribuição em certas regiões do espaço de fases durante um processo de evolução temporal do estado quântico.
 
-Scripts de informação quântica, com o foco em circuitos e canais quânticos.
+## [Pasta Qubit](https://github.com/agaviniv/SpinQubits/tree/master/Qubit)
 
-## Pasta Quadrupolar
+Scripts de informação quântica, com o foco em portas quânticas / circuitos e canais quânticos.
 
-Scripts utilizados na minha tese de doutorado.
+## [Pasta Quadrupolar](https://github.com/agaviniv/SpinQubits/tree/master/Quadrupolar)
+
+Scripts utilizados na minha tese de doutorado, cujo título foi [_Aspectos da informação quântica na relaxação magnética nuclear_](http://www.dominiopublico.gov.br/pesquisa/DetalheObraForm.do?select_action=&co_obra=178695). Por se tratar de resolver um problema de otimização, foi utilizado o algoritmo `fminsearch` (ele busca o mínimo de uma função multivariável sem restrições, e sem utilizar o cálculo de suas derivadas).
