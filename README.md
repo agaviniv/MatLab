@@ -1,5 +1,6 @@
 
-Os scripts foram escritos para modelar problemas relacionados a minha pesquisa no doutorado.
+# Spin Qubits mode on - Quantum control with noise
+Os q-bits de spin em RMN são amplamente utilizados para benchmarks de controle quântico.
 
 ## Pasta NMR - Ressonância Magnética Nuclear 
 
